@@ -6,5 +6,6 @@ Here you can see just codes, go to [narbeh.org](https://narbeh.org) to find out 
 My most favorite projects here:
   * [Python SSL Checker](https://github.com/narbehaj/ssl-checker)
   * [Bash Backup Script](https://github.com/narbehaj/bash-backup)
+  * [Zabbix NVMe Monitoring](https://github.com/narbehaj/zabbix-nvme)
 
 ![Narbeh's github stats](https://github-readme-stats.vercel.app/api?username=narbehaj&show_icons=true&theme=dark)
