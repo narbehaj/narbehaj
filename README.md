@@ -8,9 +8,9 @@ My most favorite projects here:
   * [Zabbix NVMe Monitoring](https://github.com/narbehaj/zabbix-nvme)
 
 Recent blog posts:
-  * [Deploying Your Own Distributed Object Storage Cluster With MinIO](https://narbeh.org/blog/deploying-your-own-distributed-object-storage-cluster-with-minio/)
-  * [Create a Docker image for a Python app and push it to the registry](https://narbeh.org/blog/create-a-docker-image-for-a-python-app-and-push-it-to-the-registry/)
-  * [Free Up Space After Removing Log File in Linux](https://narbeh.org/blog/free-up-space-after-removing-log-file-in-linux/)
+  * [Deploying Your Own Distributed Object Storage Cluster With MinIO](https://narbeh.org/minio-object-storage-cluster)
+  * [Create a Docker image for a Python app and push it to the registry](https://narbeh.org/docker-image-python-app-registry)
+  * [Free Up Space After Removing Log File in Linux](https://narbeh.org/linux-freeup-disk-space-after-deleting-file)
 
 ### Profile Quick Status
 ![Narbeh's github stats](https://github-readme-stats.vercel.app/api?username=narbehaj&show_icons=true&theme=dark)
