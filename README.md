@@ -13,4 +13,4 @@ Recent blog posts:
   * [Free Up Space After Removing Log File in Linux](https://narbeh.org/linux-freeup-disk-space-after-deleting-file)
 
 ### Profile Quick Status
-![Narbeh's github stats](https://github-readme-stats.vercel.app/api?username=narbehaj&show_icons=true&theme=dark)
+![Narbeh's github stats](https://readme-stats-delivery-klad.vercel.app/api?username=narbehaj&show_icons=true&theme=dark)
